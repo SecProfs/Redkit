@@ -1,8 +1,10 @@
 # Redkit - All-in-One Penetration Testing Toolkit
+![Redkit Splash](https://b.top4top.io/p_3588vuhtj1.png)
 
 [![Platform](https://img.shields.io/badge/platform-Kali%20Linux-blue)](https://www.kali.org/)
 [![Language](https://img.shields.io/badge/language-Python%203-green)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+
 
 ## Overview
 
